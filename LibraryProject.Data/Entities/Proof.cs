@@ -6,7 +6,14 @@ using System.Threading.Tasks;
 
 namespace LibraryProject.Domain.Entities
 {
-    internal class Proof
+    public class Proof:BaseEntity
     {
-    }
+        public Proof()
+        {
+            Members = new List<Member>();
+        }
+        public virtual string ProofName { get; set; }
+        //Navigation Property
+        public virtual ICollection<Member> Members { get; set; }
+    } 
 }
