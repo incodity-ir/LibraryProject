@@ -18,6 +18,7 @@ namespace LibraryProject.Domain.Entities
         public virtual string Absrtac { get; set; }
         //Navigation Property
         public virtual int SubjectID { get; set; }
+        public virtual Subject Subject { get; set; }
         public virtual ICollection<FormBorrow> FormnBorrows { get; set; }
         public virtual ICollection<Writer> Writers { get; set; }
         public virtual ICollection<BookImage> BookImages { get; set; }

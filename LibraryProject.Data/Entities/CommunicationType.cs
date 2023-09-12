@@ -11,6 +11,6 @@ namespace LibraryProject.Domain.Entities
         public virtual string CommunicationTypeName { get; set; }
         
         //Navigation Property
-        public virtual Communication Communication { get; set; }
+        public virtual ICollection<Communication> Communications { get; set; }
     }
 }
