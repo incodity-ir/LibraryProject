@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GGFuZ9oAGV+k9IPqHPV+dbVPREOuJs4gn1VLZYIR1F/5sjRB2jFdHU0lkJzgjqei8EbORFNiu/rayYbAUxlN+g==",
+  "dgSpecHash": "DAe+M+2XM2T/GbDmUuvTBpFwCP97tN7X40t2slykcDc4wf7l53fsN8MpXpieISP8vLcVCDi7SRsR6K+gma3dfw==",
   "success": true,
-  "projectFilePath": "D:\\Project\\Public\\LibraryProject\\LibraryProject.Data\\LibraryProject.Data.csproj",
+  "projectFilePath": "D:\\Project\\Public\\LibraryProject\\LibraryProject.Data\\LibraryProject.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

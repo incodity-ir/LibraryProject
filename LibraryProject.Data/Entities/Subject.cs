@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace LibraryProject.Data.Entities
+namespace LibraryProject.Domain.Entities
 {
     public  class Subject:BaseEntity
     {

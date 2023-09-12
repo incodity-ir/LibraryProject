@@ -15,9 +15,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Project\\Public\\LibraryProject\\LibraryProject.Domain\\LibraryProject.Domain.csproj",
-      "projectName": "LibraryProject.Domain",
-      "projectPath": "D:\\Project\\Public\\LibraryProject\\LibraryProject.Domain\\LibraryProject.Domain.csproj",
+      "projectUniqueName": "D:\\Project\\Public\\LibraryProject\\LibraryProject.Domain\\LibraryProject.Data.csproj",
+      "projectName": "LibraryProject.Data",
+      "projectPath": "D:\\Project\\Public\\LibraryProject\\LibraryProject.Domain\\LibraryProject.Data.csproj",
       "packagesPath": "C:\\Users\\Eng. Developer\\.nuget\\packages\\",
       "outputPath": "D:\\Project\\Public\\LibraryProject\\LibraryProject.Domain\\obj\\",
       "projectStyle": "PackageReference",
